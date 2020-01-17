@@ -49,6 +49,6 @@ int main(){
     cout << "Fahsai: " << dayFree << "...that is OK!!! I'm looking forward to watch " << movie_name << " with you." << endl;
     cout << name << ": ";
     getline(cin,typeForm);
-    cout << "Fahsai: 555+ see you " << dayFree << ". Bye Bye \(^ ^)/";
+    cout << "Fahsai: 555+ see you " << dayFree << ". Bye Bye \\(^ ^)/";
 
 }

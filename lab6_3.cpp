@@ -8,7 +8,7 @@ char before(char x){
 	if (65 < x && x <= 90){
 		return x-1;
 	} else {
-		cout << "0";
+		return '0';
 	}
 	
 	
